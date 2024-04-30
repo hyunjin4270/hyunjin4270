@@ -10,4 +10,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hyunjin4270=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin4270&theme=onedark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gugugu04)](https://solved.ac/gugugu04/)
