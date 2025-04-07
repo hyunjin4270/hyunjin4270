@@ -2,6 +2,8 @@
 ### 저는 개발자를 꿈꾸는 차현진입니다.
 #### Skill
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
 #### Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin4270&theme=onedark&show_icons=true)
